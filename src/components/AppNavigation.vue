@@ -35,12 +35,12 @@
 
 <script>
 export default {
-  name: "AppNavigation",
+  name: 'AppNavigation',
   data() {
     return {
-      appTitle: "MealPrep",
+      appTitle: 'MealPrep',
       drawer: false,
-      items: [{ title: "Menu" }, { title: "Sign In" }, { title: "Join" }],
+      items: [{ title: 'Menu' }, { title: 'Sign In' }, { title: 'Join' }],
     };
   },
 };
